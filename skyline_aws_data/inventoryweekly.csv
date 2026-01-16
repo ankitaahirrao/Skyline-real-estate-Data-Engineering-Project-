@@ -1,0 +1,66 @@
+unit_id,project_name,unit_type,available_units,week_no
+2001,Palm Residency,2 BHK,11,6
+2002,Sunset Boulevard,3 BHK,39,29
+2003,Green Valley Towers,2 BHK,46,15
+2004,Sunset Boulevard,1 BHK,36,27
+2005,Green Valley Towers,3 BHK,19,16
+2006,Sunset Boulevard,2 BHK,8,15
+2007,City Center Plaza,3 BHK,18,18
+2008,Skyline Heights,Villa,33,18
+2009,Palm Residency,3 BHK,31,47
+2010,City Center Plaza,Villa,14,36
+2011,Green Valley Towers,Villa,30,29
+2012,Palm Residency,3 BHK,41,16
+2013,Green Valley Towers,2 BHK,47,30
+2014,City Center Plaza,Studio,38,36
+2015,Green Valley Towers,2 BHK,48,26
+2016,City Center Plaza,1 BHK,37,5
+2017,Sunset Boulevard,Studio,33,36
+2018,Palm Residency,3 BHK,44,51
+2019,Sunset Boulevard,Studio,10,45
+2020,City Center Plaza,3 BHK,25,33
+2021,Palm Residency,Studio,26,49
+2022,Sunset Boulevard,Villa,17,47
+2023,Sunset Boulevard,3 BHK,29,31
+2024,Palm Residency,Studio,22,24
+2025,Sunset Boulevard,3 BHK,40,11
+2026,Sunset Boulevard,Studio,31,10
+2027,Skyline Heights,Studio,41,35
+2028,City Center Plaza,2 BHK,11,29
+2029,Palm Residency,Studio,6,39
+2030,Green Valley Towers,Villa,4,11
+2031,Green Valley Towers,Villa,11,47
+2032,Sunset Boulevard,2 BHK,13,51
+2033,City Center Plaza,Villa,46,19
+2034,City Center Plaza,2 BHK,1,35
+2035,Palm Residency,1 BHK,10,12
+2036,Sunset Boulevard,3 BHK,36,19
+2037,City Center Plaza,2 BHK,44,36
+2038,Ocean View Residency,2 BHK,25,42
+2039,Sunset Boulevard,Studio,16,51
+2040,Sunset Boulevard,1 BHK,24,37
+2041,Sunset Boulevard,1 BHK,11,33
+2042,Skyline Heights,1 BHK,42,13
+2043,Sunset Boulevard,1 BHK,3,6
+2044,Ocean View Residency,Studio,39,51
+2045,City Center Plaza,3 BHK,20,46
+2046,Ocean View Residency,Villa,17,35
+2047,Palm Residency,3 BHK,31,34
+2048,Green Valley Towers,3 BHK,3,17
+2049,City Center Plaza,Studio,45,37
+2050,Sunset Boulevard,Studio,4,26
+2051,Sunset Boulevard,Studio,28,27
+2052,City Center Plaza,Studio,47,10
+2053,City Center Plaza,2 BHK,13,11
+2054,Green Valley Towers,2 BHK,31,34
+2055,Sunset Boulevard,Studio,18,6
+2056,Ocean View Residency,Villa,41,41
+2057,Sunset Boulevard,2 BHK,17,9
+2058,City Center Plaza,Villa,19,2
+2059,Skyline Heights,1 BHK,2,13
+2060,Palm Residency,Villa,3,16
+2061,Ocean View Residency,3 BHK,3,11
+2062,Sunset Boulevard,1 BHK,13,40
+2063,Ocean View Residency,Studio,49,28
+2064,Palm Residency,Studio,42,10
+2065,Ocean View Residency,Villa,47,46
